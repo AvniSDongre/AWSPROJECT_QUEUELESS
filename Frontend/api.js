@@ -4,7 +4,7 @@
    Can be connected to AWS Lambda later.
 */
 
-const API_BASE_URL = null;
+const API_BASE_URL = "https://mc4ymfb3k7kz3jmd76ubbpkwym0curyn.lambda-url.ap-south-1.on.aws";
 const STORE_KEY = "queueless-demo-v1";
 const ME_KEY = "queueless-demo-me";
 
